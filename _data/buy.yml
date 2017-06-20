@@ -59,6 +59,13 @@
    logo: remitano.png
    url: http://geni.us/remitano
    description_sa: Remitano offer friendly UI and no hidden fee. What you see is what you get.
+   
+ - exchange: Bitcoin IRA
+   description: <p>Bitcoin IRA specializes in <b>converting IRA and 401k retirement plans into Bitcoin or Ethereum</b>.</p><p>This is the world's first program that is IRS-approved without any penalties or investment caps. Your Bitcoins are then stored in a special self-directed IRA using an exclusive Bitgo "cold storage" wallet.</p>
+   countries: us
+   logo: bitcoinira.png
+   url: https://bitcoinira.com/
+   getting_started: yes
 
 ############## Europe ##############
 
